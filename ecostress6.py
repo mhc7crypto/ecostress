@@ -55,7 +55,7 @@ Posterior a esfuerzo se realizó nueva toma de imágenes para evaluar motilidad 
 - METS alcanzados: {mets:.1f}
 - % FCTM: {porcentaje_fctm:.1f}%
 
-*OBSERVACIONES:*
+
 - Prueba detenida por fatiga muscular
 - No presentó angor ni equivalentes
 - Curva tensional normal
